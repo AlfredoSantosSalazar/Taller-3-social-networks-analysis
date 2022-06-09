@@ -6,7 +6,7 @@
 
 Workshop delivery video tutorial https://youtu.be/obaBhur2mLI
 
-[![Alt text](https://img.youtube.com/vi/obaBhur2mLI/0.jpg)](https://youtu.be/obaBhur2mLI)
+[![Alt text](https://img.youtube.com/vi/CWPYLPR-7Go/0.jpg)](https://youtu.be/CWPYLPR-7Go)
 
 Step 1: Download and install Anaconda
 
